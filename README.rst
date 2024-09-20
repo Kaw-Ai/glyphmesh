@@ -42,7 +42,7 @@ This script can be run either in GUI or batch mode.
 | Press *Create Mesh*                                                 |
 +----------+----------------------------------------------------------+
 
-.. image:: https://raw.github.com/pointwise/ConformalModelMesher/master/ConformalModelMesherUI.PNG
+.. image:: https://github.com/pointwise/ConformalModelMesher/blob/main/ConformalModelMesherUI.png
 
 **Batch Mode**
 
