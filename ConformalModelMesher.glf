@@ -425,7 +425,6 @@ if { !($guiMode) } {
   wm withdraw $t1
 
   wm attributes . -topmost yes ; # keep window on top
-  wm attributes . -toolwindow yes
 
   # add two frames: f1 to house the parameters; f2 to house the buttons
   set f1 [frame .f1 -borderwidth 1 -relief sunken]
